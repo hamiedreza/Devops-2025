@@ -25,7 +25,6 @@ do
     fi
 done
 
-echo "Your favorite OS is: $MY_OS"
 echo "The largest number is: $max"
 echo "The smallest number is: $min"
 
