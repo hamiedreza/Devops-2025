@@ -1,0 +1,35 @@
+Ping Test on 2025-09-27 from hasosheh
+-----------------------------------
+Pinging 8.8.8.8 ...
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=128 time=73.5 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=128 time=70.0 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=128 time=78.5 ms
+64 bytes from 8.8.8.8: icmp_seq=4 ttl=128 time=233 ms
+
+--- 8.8.8.8 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3017ms
+rtt min/avg/max/mdev = 70.028/113.647/232.551/68.715 ms
+---------------------------
+Pinging 1.1.1.1 ...
+PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
+64 bytes from 1.1.1.1: icmp_seq=1 ttl=128 time=295 ms
+64 bytes from 1.1.1.1: icmp_seq=2 ttl=128 time=296 ms
+64 bytes from 1.1.1.1: icmp_seq=3 ttl=128 time=313 ms
+64 bytes from 1.1.1.1: icmp_seq=4 ttl=128 time=219 ms
+
+--- 1.1.1.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3040ms
+rtt min/avg/max/mdev = 218.883/280.840/313.418/36.512 ms
+---------------------------
+Pinging 192.168.1.1 ...
+PING 192.168.1.1 (192.168.1.1) 56(84) bytes of data.
+64 bytes from 192.168.1.1: icmp_seq=1 ttl=128 time=8.05 ms
+64 bytes from 192.168.1.1: icmp_seq=2 ttl=128 time=13.8 ms
+64 bytes from 192.168.1.1: icmp_seq=3 ttl=128 time=9.21 ms
+64 bytes from 192.168.1.1: icmp_seq=4 ttl=128 time=8.28 ms
+
+--- 192.168.1.1 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3029ms
+rtt min/avg/max/mdev = 8.052/9.827/13.765/2.314 ms
+---------------------------
